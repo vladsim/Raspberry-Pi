@@ -9,3 +9,11 @@ Use balenaEtcher to write the .img file to the SD card.
 Documentation on https://www.raspberrypi.org/documentation/installation/installing-images/mac.md  
   
 ### First steps with Raspberry Pi
+Log in (if you chosen desktop version, wait a minute or two to boot in the graphic screen).  
+Set up TimeZone, Language and Keyboard.  
+Change user password.  
+Set up network.  
+After reboot run sudo raspi-config from the terminal.  
+Do the configuration and reboot.  
+Run sudo apt-get update && sudo apt-get dist-upgrade -y and reboot.  
+Start working and have fun!  
