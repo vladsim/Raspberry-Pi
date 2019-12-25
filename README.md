@@ -2,9 +2,9 @@
 Notes for managing and operating Raspberryi Pi
 
 ### Installation on Mac OS X
-Download [Raspbian OS](https://www.raspberrypi.org/downloads/raspbian/) and unzip the .img file.  
+Download [Raspbian OS](https://www.raspberrypi.org/downloads/raspbian/) and unzip the `.img` file.  
 Download [balenaEtcher](https://www.balena.io/etcher/) for Mac OS X and install it.  
-Use balenaEtcher to write the .img file to the SD card.
+Use balenaEtcher to write the `.img` file to the SD card.
   
 Documentation on https://www.raspberrypi.org/documentation/installation/installing-images/mac.md  
   
@@ -13,7 +13,7 @@ Log in (if you chosen desktop version, wait a minute or two to boot in the graph
 Set up TimeZone, Language and Keyboard.  
 Change user password.  
 Set up network.  
-After reboot run sudo raspi-config from the terminal.  
+After reboot run `sudo raspi-config` from the terminal.  
 Do the configuration and reboot.  
-Run sudo apt-get update && sudo apt-get dist-upgrade -y and reboot.  
+Run `sudo apt-get update && sudo apt-get dist-upgrade -y` and reboot.  
 Start working and have fun!  
