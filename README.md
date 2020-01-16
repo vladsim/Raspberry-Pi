@@ -1,5 +1,5 @@
 # Raspberry_Pi
-Notes for managing and operating Raspberryi Pi
+Notes for managing and operating Raspberry Pi
 
 ### Installation on Mac OS X
 Download [Raspbian OS](https://www.raspberrypi.org/downloads/raspbian/) and unzip the `.img` file.  
