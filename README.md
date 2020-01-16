@@ -1,4 +1,4 @@
-# Raspberry_Pi
+# Raspberry-Pi
 Notes for managing and operating Raspberry Pi
 
 ### Installation on Mac OS X
@@ -14,6 +14,6 @@ Set up TimeZone, Language and Keyboard.
 Change user password.  
 Set up network.  
 After reboot run `sudo raspi-config` from the terminal.  
-Do the configuration and reboot.  
+Do the necessary configuration and reboot.  
 Run `sudo apt-get update && sudo apt-get dist-upgrade -y` and reboot.  
-Start working and have fun!  
+Start working and have fun!
